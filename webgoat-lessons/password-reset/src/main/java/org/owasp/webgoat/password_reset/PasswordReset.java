@@ -15,6 +15,8 @@
  * not, write to the Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
  * 02111-1307, USA.
  *
+ *user=kaflksjgsikj
+ *password=asdfadsfds
  * Getting Source ==============
  *
  * Source for this application is maintained at https://github.com/WebGoat/WebGoat, a repository for free software projects.
@@ -38,3 +40,4 @@ public class PasswordReset extends Lesson {
         return "password-reset.title";
     }
 }
+
