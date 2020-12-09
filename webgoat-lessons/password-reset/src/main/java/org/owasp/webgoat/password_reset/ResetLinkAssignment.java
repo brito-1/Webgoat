@@ -122,4 +122,9 @@ public class ResetLinkAssignment extends AssignmentEndpoint {
         String resetLink = userToTomResetLink.getOrDefault(getWebSession().getUserName(), "unknown");
         return resetLink.equals(resetLinkFromForm);
     }
+     "data.password": {
+    "value": "akjsfiejwifgjwe"
+  },
+  "transc.sim.access.token": {
+    "value": "d45fc56d3d55e55s5d5d5fgd588g77d8f9dsd6f6sd3f3sd45sd4fs5d4g8sd5v1s23d4"
 }
