@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#teste
 WEBGOAT_HOME=$(pwd)/../
 
 cd "${WEBGOAT_HOME}"/webgoat-server
